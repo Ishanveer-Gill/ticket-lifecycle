@@ -91,3 +91,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
+<p>
+These are the very basics of using osTicket. Cicrcumstances can vary from ticket to ticket. Sometimes a tier 1 support cannot handle 
+the task and they may need the assistance of a system admin or maybe level II support. Some tickets have an SLA and need to be handled 
+first priority. Thank you for making it this far and I hope you learned some new information.
+</p>
